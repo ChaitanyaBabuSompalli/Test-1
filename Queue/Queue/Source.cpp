@@ -4,6 +4,7 @@
 using namespace std;
 
 // Print the queue
+//modified
 void showq(queue<int> gq)
 {
 	queue<int> g = gq;
